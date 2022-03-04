@@ -1,0 +1,15 @@
+{
+  "main": "hoho.js",
+  "scripts": {
+    "u": "ncu -u && npm update",
+    "t": "pd login",
+    "g": "git add . && git commit -m \"first commit\" && git push -u origin main -f",
+    "w": "wrangler publish"
+  },
+  "dependencies": {
+    "@cloudflare/wrangler": "^1.19.8",
+    "hono": "latest",
+    "posthtml-render": "^3.0.0",
+    "telegra.ph": "latest"
+  }
+}
