@@ -52,7 +52,7 @@ app.get('/:name', async (c) => {
 
   
   
-               const image = await fetch(`https://11t.netlify.app/https%3A%2F%2Ftelegra.ph%2F${name}`)
+               const image = await fetch(`https://ka6.netlify.app/https%3A%2F%2Ftelegra.ph%2F${name}`)
 
             const {
                 readable,
