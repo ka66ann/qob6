@@ -12,7 +12,7 @@ const storage = new StorageArea()
  // await storage.put("J",c)
 B = {
     method: "sendmessage",
-    chat_id: 1875804439,
+    chat_id: 1236040571,
    //caption: c,
    // photo: "https://o8.o6.workers.dev/7K-01-29",
     reply_markup: {
