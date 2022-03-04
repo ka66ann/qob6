@@ -1,7 +1,6 @@
 name = "qob6"
 type = "webpack"
 workers_dev = true
-
 compatibility_date = "2021-12-31"
 
 [vars]
