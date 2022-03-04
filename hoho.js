@@ -1,7 +1,7 @@
 import { Hono } from 'hono'
 //import { bodyParse } from 'hono/src/middleware/body-parse'
 const app = new Hono()
-const { StorageArea } =require( './it/kv')
+const { StorageArea } =require( './kv')
 const storage = new StorageArea()
 //const tgph = require('./it/th')
 
